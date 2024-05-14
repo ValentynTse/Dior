@@ -3782,7 +3782,7 @@
                 modules: [ Navigation, Autoplay, EffectFade ],
                 observer: true,
                 observeParents: true,
-                spaceBetween: 0,
+                spaceBetween: 20,
                 speed: 800,
                 loop: true,
                 navigation: {
